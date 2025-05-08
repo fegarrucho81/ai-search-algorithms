@@ -2,7 +2,7 @@
 
 This repository contains the implementation of three classic search and optimization problems developed as part of a university assignment for the **Fundamentals of Artificial Intelligence** course.
 
-## 📌 Assignment Overview
+## Assignment Overview
 
 The goal was to apply different types of search strategies to solve specific problems using Python. The project includes:
 
@@ -26,11 +26,11 @@ The goal was to apply different types of search strategies to solve specific pro
 - **A-Star Search:** Combines both the path cost and the heuristic (f(n) = g(n) + h(n)), balancing between cost-so-far and estimated cost-to-goal to find the optimal path efficiently.
 - **Result:** Shows the path found by each strategy from node `A` to node `I`.
 
-## 🛠️ Technologies
+## 🛠Technologies
 
 - Python 3.x
 - Standard libraries: `heapq`, `math`, `random`
 
-## 📚 Academic Context
+## Academic Context
 
 This project was developed as part of the "Fundamentals of Artificial Intelligence" course. It aimed to provide practical experience with different search techniques commonly used in AI problem-solving.
